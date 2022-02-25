@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Connect_Four.Connect_Four-task-build-classes-kotlin.main" target="11" />
+      <module name="Connect_Four.Connect_Four-task-build-reports-tests.main" target="11" />
+      <module name="Connect_Four.Connect_Four-task-build-test-results.main" target="11" />
+      <module name="Connect_Four.Connect_Four-task-build-tmp.main" target="11" />
+      <module name="Connect_Four.Connect_Four-task.main" target="11" />
+      <module name="Connect_Four.Topics-Debugging_techniques-Assertion.main" target="11" />
+      <module name="Connect_Four.Topics-Debugging_techniques-Best_practices.main" target="11" />
+      <module name="Connect_Four.Topics-Debugging_techniques-Development_approach.main" target="11" />
+      <module name="Connect_Four.Topics-Debugging_techniques-Find_the_error.main" target="11" />
+      <module name="Connect_Four.Topics-Debugging_techniques-Log_events.main" target="11" />
+      <module name="Connect_Four.Topics-Debugging_techniques-Proper_tools.main" target="11" />
+      <module name="Connect_Four.Topics-Debugging_techniques-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-List-Are_you_there.main" target="11" />
+      <module name="Connect_Four.Topics-List-Concise.main" target="11" />
+      <module name="Connect_Four.Topics-List-Even_numbers.main" target="11" />
+      <module name="Connect_Four.Topics-List-Indexes.main" target="11" />
+      <module name="Connect_Four.Topics-List-It's_all_about_the_List.main" target="11" />
+      <module name="Connect_Four.Topics-List-List_initializing.main" target="11" />
+      <module name="Connect_Four.Topics-List-My_position.main" target="11" />
+      <module name="Connect_Four.Topics-List-Number_of_occurrences.main" target="11" />
+      <module name="Connect_Four.Topics-List-Sum_of_numbers.main" target="11" />
+      <module name="Connect_Four.Topics-List-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-Add_them_all.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-Adding.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-Banana.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-MutableList_properties.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-New_List.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-Remove_us.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-Transformation.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-Updating_an_element.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-You_don't_need_them.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Backslash_problem.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Creating_regexes.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Different_colo_u_rs.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Escapism.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Help_the_teacher.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Matching_pattern.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Rings_of_Power.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Theory.main" target="11" />
+      <module name="Connect_Four.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
